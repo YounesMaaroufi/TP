@@ -1,0 +1,44 @@
+{
+  "joueurs": [
+    {
+      "idEquipe": 2,
+      "nom": "younes",
+      "numero": 1803,
+      "poste": "salam",
+      "id": 1
+    },
+    {
+      "idEquipe": 1,
+      "nom": "fati",
+      "numero": 1803,
+      "poste": "salam",
+      "id": 2
+    },
+    {
+      "idEquipe": 2,
+      "nom": "abdo",
+      "numero": 1803,
+      "poste": "salam",
+      "id": 3
+    },
+    {
+      "idEquipe": 1,
+      "nom": "msfiwi",
+      "numero": 1803,
+      "poste": "salam",
+      "id": 4
+    }
+  ],
+  "equipe": [
+    {
+      "nom": "wydad",
+      "numero": 1803,
+      "id": 1
+    },
+    {
+      "nom": "raja",
+      "numero": 1803,
+      "id": 2
+    }
+  ]
+}
